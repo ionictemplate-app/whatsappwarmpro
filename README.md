@@ -1,5 +1,15 @@
 # Whatsapp Multiple Accounts Warmer Pro+KeyGen-Full Reseller
  https://codecanyon.net/item/whatsapp-multiple-accounts-manage-pro/41214814
+
+ ## All Product List:🌐 https://bit.ly/alloninesocial
+### Telegram: 👉 https://t.me/IonicSupport   
+### Whatsapp  👉 http://wa.me/447999197856
+### Telegram Support Group:👉 https://t.me/+UVmjOA7wu3szYzM1
+
+### Youtube Channel 
+#### 📽 https://www.youtube.com/channel/UCz2Ti8uKwv0Fh5j5IgUTPww
+#### 📽 https://www.youtube.com/channel/UC6NZcaPmat9ooKW1yLxdnjQ
+
 <p>✅<strong>Whatsapp Multiple Accounts Warmer Pro</strong> can easily help you manage|Warmer multiple whatsapp accounts!
 </p>
 <p>✅Easily let you to login to multiple whatsapp accounts in the same time!</p>
@@ -105,58 +115,4 @@
 </a>
 
 
-<h2><strong>Online Support</strong></h2>
-<table>
-  <tr>
-    <td>
-      <a href="mailto:ionicstudio@hotmail.com">
-        <img src="https://i.ibb.co/D95ZGwY/email.png" alt="email" />
-      </a>
-    </td>
-    <td>
-      <a href="https://api.whatsapp.com/send/?phone=13156299582" rel="nofollow">
-        <img src="https://i.ibb.co/XyMCqD4/wa2.png" alt="wa2" />
-      </a>
-    </td>
-  </tr>
-</table>
 
-
-<h3><strong>Update Logs</strong></h3>
-- V3.0.5 ( 2023  August 09)
-<pre>
-  --Fixed:Auto Warmer Delay issue
-  --Add:العربية,Português,Español,Italiano,Bahasa Indonesia,Bahasa Melayu,Deutsch
-  (Deutschland),Français,हिन्दी,فارسی,Tiếng Việt,Türkçe,简体中文
- </pre>
-- V3.0.4 ( 2023  August 03)
-<pre>
-  --Fixed:Send Issue
-  --Add:Auto Warmer
-  --Add:Export contacts
-  --Remove:bulk sender
- </pre>
-- V3.0.3 ( 2023 June 07)
-<pre>
-  --Fixed:Send Issue
- </pre>
-
-- V3.0.2 ( 2023 May 13)
-<pre>
-  --Fix:Fix account suspension
- </pre>
-
-- V3.0.1 ( 2023 April 12)
-<pre>
-  --Add:Support File Download
-  --Add:Multi-account batch sending
-  --Add:Multi-account Warmer 
- </pre>
-- V2.0.1 ( 2023 Mar 15)
-<pre>
-  --Fixed:Remove issue
- </pre>
-- V1.0.0 ( 2022/11/13)
-<pre>
-  --Add:Initial version
- </pre>
